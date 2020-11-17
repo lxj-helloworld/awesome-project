@@ -1,0 +1,67 @@
+{
+  "buildFiles": [
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/json11/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/build/cmake/platforms.cmake",
+    "/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/build/cmake/android.toolchain.cmake",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "wson-Release-x86": {
+      "artifactName": "wson",
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/x86\" wson",
+      "abi": "x86",
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/x86/Source/wson/libwson.a"
+    },
+    "json11-Release-x86": {
+      "artifactName": "json11",
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/x86\" json11",
+      "abi": "x86",
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/x86/Source/third_party/json11/libjson11.a"
+    },
+    "libweexjst.so-Release-x86": {
+      "artifactName": "libweexjst.so",
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/x86\" libweexjst.so",
+      "abi": "x86",
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/x86/Source/js_runtime/libweexjst.so"
+    },
+    "libweexjsb.so-Release-x86": {
+      "artifactName": "libweexjsb.so",
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/x86\" libweexjsb.so",
+      "abi": "x86",
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/x86/Source/js_runtime/libweexjsb.so"
+    },
+    "weexjss-Release-x86": {
+      "artifactName": "weexjss",
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/x86\" weexjss",
+      "abi": "x86",
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/build/intermediates/cmake/debug/obj/x86/libweexjss.so"
+    },
+    "weexipc-Release-x86": {
+      "artifactName": "weexipc",
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/x86\" weexipc",
+      "abi": "x86",
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/x86/Source/third_party/IPC/libweexipc.a"
+    },
+    "weexbase-Release-x86": {
+      "artifactName": "weexbase",
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/x86\" weexbase",
+      "abi": "x86",
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/x86/Source/base/libweexbase.a"
+    },
+    "weexcore-Release-x86": {
+      "artifactName": "weexcore",
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/x86\" weexcore",
+      "abi": "x86",
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/build/intermediates/cmake/debug/obj/x86/libweexcore.so"
+    }
+  }
+}

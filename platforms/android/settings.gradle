@@ -1,1 +1,2 @@
+include ':android_sdk'
 include ':app'

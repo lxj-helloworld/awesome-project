@@ -1,0 +1,25 @@
+Executable : /Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core
+-DCMAKE_TOOLCHAIN_FILE=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_NDK=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570
+-DCMAKE_ANDROID_ARCH_ABI=armeabi-v7a
+-DCMAKE_ANDROID_NDK=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/build/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_MAKE_PROGRAM=/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=16
+-DANDROID_PLATFORM=android-21
+-DANDROID_TOOLCHAIN=clang
+-DANDROID_STL=c++_shared
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_PROJECT_DIR=/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk
+-DENABLE_ASAN=false
+-DBUILD_RUNTIME_API=true
+-B/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/armeabi-v7a
+-GNinja
+jvmArgs : 
+
+Build command args:

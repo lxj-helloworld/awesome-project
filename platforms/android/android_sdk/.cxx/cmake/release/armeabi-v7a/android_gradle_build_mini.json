@@ -1,0 +1,67 @@
+{
+  "buildFiles": [
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/json11/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/build/cmake/platforms.cmake",
+    "/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/build/cmake/android.toolchain.cmake",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "weexcore-Release-armeabi-v7a": {
+      "artifactName": "weexcore",
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/armeabi-v7a\" weexcore",
+      "abi": "armeabi-v7a",
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/build/intermediates/cmake/release/obj/armeabi-v7a/libweexcore.so"
+    },
+    "libweexjsb.so-Release-armeabi-v7a": {
+      "artifactName": "libweexjsb.so",
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/armeabi-v7a\" libweexjsb.so",
+      "abi": "armeabi-v7a",
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/armeabi-v7a/Source/js_runtime/libweexjsb.so"
+    },
+    "weexjss-Release-armeabi-v7a": {
+      "artifactName": "weexjss",
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/armeabi-v7a\" weexjss",
+      "abi": "armeabi-v7a",
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/build/intermediates/cmake/release/obj/armeabi-v7a/libweexjss.so"
+    },
+    "wson-Release-armeabi-v7a": {
+      "artifactName": "wson",
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/armeabi-v7a\" wson",
+      "abi": "armeabi-v7a",
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/armeabi-v7a/Source/wson/libwson.a"
+    },
+    "json11-Release-armeabi-v7a": {
+      "artifactName": "json11",
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/armeabi-v7a\" json11",
+      "abi": "armeabi-v7a",
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/armeabi-v7a/Source/third_party/json11/libjson11.a"
+    },
+    "weexipc-Release-armeabi-v7a": {
+      "artifactName": "weexipc",
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/armeabi-v7a\" weexipc",
+      "abi": "armeabi-v7a",
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/armeabi-v7a/Source/third_party/IPC/libweexipc.a"
+    },
+    "libweexjst.so-Release-armeabi-v7a": {
+      "artifactName": "libweexjst.so",
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/armeabi-v7a\" libweexjst.so",
+      "abi": "armeabi-v7a",
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/armeabi-v7a/Source/js_runtime/libweexjst.so"
+    },
+    "weexbase-Release-armeabi-v7a": {
+      "artifactName": "weexbase",
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/armeabi-v7a\" weexbase",
+      "abi": "armeabi-v7a",
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/armeabi-v7a/Source/base/libweexbase.a"
+    }
+  }
+}

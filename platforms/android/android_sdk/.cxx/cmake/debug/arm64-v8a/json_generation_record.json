@@ -1,0 +1,644 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 16 min SDK version: arm64-v8a",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "CMake \u00273.6.0\u0027 found in SDK did not match requested version \u00273.10.2\u0027.",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "rebuilding JSON /Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json due to:",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- expected json /Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- missing previous command file /Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/build_command.txt, will remove stale json folder",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- command changed from previous, will remove stale json folder",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "removing stale contents from \u0027/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a\u0027",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "created folder \u0027/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a\u0027",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "executing cmake Executable : /Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/cmake\narguments : \n-H/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core\n-DCMAKE_TOOLCHAIN_FILE\u003d/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/build/cmake/android.toolchain.cmake\n-DANDROID_ABI\u003darm64-v8a\n-DANDROID_NDK\u003d/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570\n-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\n-DCMAKE_ANDROID_NDK\u003d/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570\n-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\n-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/build/intermediates/cmake/debug/obj/arm64-v8a\n-DCMAKE_MAKE_PROGRAM\u003d/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja\n-DCMAKE_SYSTEM_NAME\u003dAndroid\n-DCMAKE_SYSTEM_VERSION\u003d16\n-DANDROID_PLATFORM\u003dandroid-21\n-DANDROID_TOOLCHAIN\u003dclang\n-DANDROID_STL\u003dc++_shared\n-DCMAKE_BUILD_TYPE\u003dRelease\n-DANDROID_PROJECT_DIR\u003d/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk\n-DENABLE_ASAN\u003dfalse\n-DBUILD_RUNTIME_API\u003dtrue\n-B/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a\n-GNinja\njvmArgs : \n\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "[\u003d\u003d \"CMake Server\" \u003d\u003d[\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "]\u003d\u003d \"CMake Server\" \u003d\u003d]\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core\",\n  \"buildDirectory\": \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a\",\n  \"generator\": \"Ninja\"\n}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003d/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/build/cmake/android.toolchain.cmake\",\n    \"-DANDROID_ABI\\u003darm64-v8a\",\n    \"-DANDROID_NDK\\u003d/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darm64-v8a\",\n    \"-DCMAKE_ANDROID_NDK\\u003d/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003d/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/build/intermediates/cmake/debug/obj/arm64-v8a\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003d/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d16\",\n    \"-DANDROID_PLATFORM\\u003dandroid-21\",\n    \"-DANDROID_TOOLCHAIN\\u003dclang\",\n    \"-DANDROID_STL\\u003dc++_shared\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelease\",\n    \"-DANDROID_PROJECT_DIR\\u003d/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk\",\n    \"-DENABLE_ASAN\\u003dfalse\",\n    \"-DBUILD_RUNTIME_API\\u003dtrue\"\n  ]\n}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: /Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":33,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working C compiler: /Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working C compiler: /Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang -- works",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":65,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compiler ABI info - done",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":96,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":126,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":155,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting C compile features - done\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting C compile features - done",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: /Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":184,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Check for working CXX compiler: /Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ -- works\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Check for working CXX compiler: /Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ -- works",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":211,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compiler ABI info - done\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compiler ABI info - done",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":237,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":262,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":287,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":311,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Detecting CXX compile features - done\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Detecting CXX compile features - done",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":334,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning (dev) at Source/CMakeLists.txt:41:\\n  Syntax Warning in cmake code at column 31\\n\\n  Argument not separated from preceding token by whitespace.\\nThis warning is for project developers.  Use -Wno-dev to suppress it.\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Warning (dev) at /Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/CMakeLists.txt:41:\n  Syntax Warning in cmake code at column 31\n\n  Argument not separated from preceding token by whitespace.\nThis warning is for project developers.  Use -Wno-dev to suppress it.",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"c++_shared \",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "c++_shared ",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"ANDROID_PROJECT_DIR:/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "ANDROID_PROJECT_DIR:/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":356,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":377,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":398,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":418,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"check build jsc BUILD_RUNTIME_API flag: true\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "check build jsc BUILD_RUNTIME_API flag: true",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":438,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"CMake Warning (dev) at Source/js_runtime/CMakeLists.txt:202:\\n  Syntax Warning in cmake code at column 31\\n\\n  Argument not separated from preceding token by whitespace.\\nThis warning is for project developers.  Use -Wno-dev to suppress it.\\n\",\"title\":\"Warning\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "WARN",
+    "message": "CMake Warning (dev) at /Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/CMakeLists.txt:202:\n  Syntax Warning in cmake code at column 31\n\n  Argument not separated from preceding token by whitespace.\nThis warning is for project developers.  Use -Wno-dev to suppress it.",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"\u0027rewriteANDROID_PLATFORM\u0027\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "\u0027rewriteANDROID_PLATFORM\u0027",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"LOCAL_LIBRARIES_DIR:/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/libs/arm64-v8a\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "LOCAL_LIBRARIES_DIR:/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/libs/arm64-v8a",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/libs/arm64-v8a\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/libs/arm64-v8a",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"cmake build jsApi for runtime\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "cmake build jsApi for runtime",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":914,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":928,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":942,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":957,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":971,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":985,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Configuring done",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"compute\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":142,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":285,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":428,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":571,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":714,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":857,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Generating done",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"cmakeInputs\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineSystem.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystem.cmake.in\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCCompiler.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-C.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCXXCompiler.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompiler.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Determine-CXX.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android/Determine-Compiler.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeFindBinUtils.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-FindBinUtils.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCCompiler.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompilerABI.c\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C-FeatureTests.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCCompiler.cmake.in\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCXXCompiler.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeTestCompilerCommon.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompilerABI.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompilerABI.cpp\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeDetermineCompileFeatures.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Internal/FeatureTesting.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-FeatureTests.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX-TestableFeatures.cmake\",\"../../../../../../Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXCompiler.cmake.in\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"../../../../../../Android/SDK/ndk/20.0.5594570/build/cmake/android.toolchain.cmake\",\"../../../../../../Android/SDK/ndk/20.0.5594570/build/cmake/platforms.cmake\",\"../../../../../../Android/SDK/ndk/20.0.5594570/build/cmake/android.toolchain.cmake\",\"Source/CMakeLists.txt\",\"Source/base/CMakeLists.txt\",\"Source/wson/CMakeLists.txt\",\"Source/third_party/json11/CMakeLists.txt\",\"Source/third_party/IPC/CMakeLists.txt\",\"Source/js_runtime/CMakeLists.txt\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../android_sdk/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../android_sdk/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../android_sdk/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\",\"../android_sdk/.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c\",\"../android_sdk/.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c\",\"../android_sdk/.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.c\",\"../android_sdk/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../android_sdk/.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx\",\"../android_sdk/.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx\",\"../android_sdk/.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx\",\"../android_sdk/.cxx/cmake/debug/arm64-v8a/CMakeFiles/feature_tests.cxx\",\"../android_sdk/.cxx/cmake/debug/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core\",\"type\":\"reply\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"type\":\"codemodel\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "{\"configurations\":[{\"name\":\"Release\",\"projects\":[{\"buildDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a\",\"name\":\"WeexCore\",\"sourceDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core\",\"targets\":[{\"artifacts\":[\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/build/intermediates/cmake/debug/obj/arm64-v8a/libweexcore.so\"],\"buildDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/Source\",\"fileGroups\":[{\"isGenerated\":false,\"sources\":[\"android/weex_extend_js_api.h\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -std\u003dc++1y -O2 -DNDEBUG  -fPIC   -fexceptions\",\"defines\":[\"DOM_PARSER_LOG\u003d0\",\"GNU_SUPPORT\u003d1\",\"JSAPI_LOG\u003d0\",\"JSONCPP_NO_LOCALE_SUPPORT\u003d1\",\"LAYOUT_LOG\u003d0\",\"OS_ANDROID\u003d1\",\"PERFORMANCE_LOG\u003d0\",\"RENDER_LOG\u003d0\",\"weexcore_EXPORTS\"],\"includePath\":[{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/.\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson/.\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/json11/.\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/.\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/.\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"core/render/manager/render_manager.cpp\",\"core/render/page/render_page.cpp\",\"core/render/node/render_object.cpp\",\"core/render/node/factory/render_creator.cpp\",\"core/render/node/render_appbar.cpp\",\"core/render/node/render_list.cpp\",\"core/render/node/render_mask.cpp\",\"core/render/node/render_scroller.cpp\",\"core/render/node/render_text.cpp\",\"core/render/action/render_action_add_event.cpp\",\"core/render/action/render_action_remove_event.cpp\",\"core/render/action/render_action_add_element.cpp\",\"core/render/action/render_action_remove_element.cpp\",\"core/render/action/render_action_move_element.cpp\",\"core/render/action/render_action_createbody.cpp\",\"core/render/action/render_action_createfinish.cpp\",\"core/render/action/render_action_appendtree_createfinish.cpp\",\"core/render/action/render_action_layout.cpp\",\"core/render/action/render_action_update_attr.cpp\",\"core/render/action/render_action_update_style.cpp\",\"core/render/action/render_action_render_success.cpp\",\"core/render/action/render_action_trigger_vsync.cpp\",\"core/layout/layout.cpp\",\"core/layout/style.cpp\",\"core/css/css_value_getter.cpp\",\"core/config/core_environment.cpp\",\"core/moniter/render_performance.cpp\",\"core/bridge/platform/core_side_in_platform.cpp\",\"core/bridge/script/core_side_in_script.cpp\",\"core/parser/dom_wson.cpp\",\"core/parser/action_args_check.cpp\",\"core/network/http_module.cc\",\"android/weex_extend_js_api.cpp\",\"android/base/string/scoped_jstring_utf8.cpp\",\"android/base/string/jstring_cache.cpp\",\"android/base/string/scoped_jstring.cpp\",\"android/wrap/content_box_measurement_impl_android.cpp\",\"android/wrap/wx_debug_js_bridge.cpp\",\"android/wrap/native_render_object_utils_impl_android.cpp\",\"android/bridge/platform/android_side.cpp\",\"android/bridge/platform/android_bridge.cpp\",\"android/bridge/script/script_side_in_multi_so.cpp\",\"android/bridge/script/script_side_in_multi_process.cpp\",\"android/bridge/script_bridge_in_multi_so.cpp\",\"android/bridge/script_bridge_in_multi_process.cpp\",\"android/bridge/multi_process_and_so_initializer.cpp\",\"android/bridge/multi_so_initializer.cpp\",\"android/wrap/wml_bridge.cpp\",\"android/utils/cache_utils.cpp\",\"android/utils/params_utils.cpp\",\"android/utils/so_utils.cpp\",\"android/utils/ipc_string_result.cpp\",\"android/wrap/log_utils.cpp\",\"android/wrap/hash_set.cpp\",\"android/wrap/wx_map.cpp\",\"android/wrap/wx_js_object.cpp\",\"android/wrap/wx_bridge.cpp\",\"android/wrap/wx_params.cpp\",\"android/multiprocess/weex_js_connection.cpp\",\"android/utils/jni_load.cc\",\"core/bridge/eagle_bridge.cpp\",\"core/network/android/default_request_handler.cc\"]}],\"fullName\":\"libweexcore.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack\",\"linkLibraries\":\"wson/libwson.a third_party/json11/libjson11.a base/libweexbase.a wson/libwson.a -landroid third_party/IPC/libweexipc.a -llog -lc -lz -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"weexcore\",\"sourceDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source\",\"sysroot\":\"/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/Source/base/libweexbase.a\"],\"buildDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/Source/base\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -std\u003dc++1y -O2 -DNDEBUG  -fPIC   -fexceptions\",\"defines\":[\"DOM_PARSER_LOG\u003d0\",\"GNU_SUPPORT\u003d1\",\"JSAPI_LOG\u003d0\",\"JSONCPP_NO_LOCALE_SUPPORT\u003d1\",\"LAYOUT_LOG\u003d0\",\"OS_ANDROID\u003d1\",\"PERFORMANCE_LOG\u003d0\",\"RENDER_LOG\u003d0\"],\"includePath\":[{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/.\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"time_point.cc\",\"log_defines.cpp\",\"base64/base64.cpp\",\"base64/modp_base64/modp_b64.cc\",\"crash/crash_handler.cpp\",\"message_loop/message_loop.cc\",\"message_loop/message_pump_android.cc\",\"message_loop/message_pump_darwin.cc\",\"message_loop/message_pump_posix.cc\",\"thread/thread_impl_android.cc\",\"thread/thread_impl_darwin.cc\",\"thread/thread_impl_posix.cc\",\"third_party/icu/icu_utf.cpp\",\"utils/log_utils.cpp\",\"utils/ThreadLocker.cpp\",\"android/call_stack.cpp\",\"android/weex_log.cpp\",\"android/jni_type.cpp\",\"android/jni/android_jni.cpp\",\"android/jni/jbytearray_ref.cpp\",\"android/jni/scoped_java_ref.cpp\"]},{\"isGenerated\":false,\"sources\":[\"common.h\",\"closure.h\",\"make_copyable.h\",\"time_calculator.h\",\"time_point.h\",\"time_unit.h\",\"core_constants.h\",\"log_defines.h\",\"time_utils.h\",\"base64/base64.h\",\"base64/modp_base64/modp_b64.h\",\"base64/modp_base64/modp_b64_data.h\",\"crash/crash_handler.h\",\"message_loop/message_loop.h\",\"message_loop/message_pump.h\",\"message_loop/message_pump_android.h\",\"message_loop/message_pump_darwin.h\",\"message_loop/message_pump_posix.h\",\"thread/thread.h\",\"thread/thread_impl.h\",\"thread/thread_local.h\",\"thread/thread_impl_android.h\",\"thread/thread_impl_darwin.h\",\"thread/thread_impl_posix.h\",\"thread/waitable_event.h\",\"utils/log_utils.h\",\"utils/ThreadLocker.h\",\"android/call_stack.h\",\"android/weex_log.h\",\"android/log_utils.h\",\"android/jni_type.h\",\"android/jni/android_jni.h\",\"android/jni/jbytearray_ref.h\",\"android/jni/scoped_java_ref.h\"]}],\"fullName\":\"libweexbase.a\",\"linkerLanguage\":\"CXX\",\"name\":\"weexbase\",\"sourceDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base\",\"sysroot\":\"/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/Source/wson/libwson.a\"],\"buildDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/Source/wson\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -std\u003dc++1y -O2 -DNDEBUG  -fPIC   -fexceptions\",\"defines\":[\"DOM_PARSER_LOG\u003d0\",\"GNU_SUPPORT\u003d1\",\"JSAPI_LOG\u003d0\",\"JSONCPP_NO_LOCALE_SUPPORT\u003d1\",\"LAYOUT_LOG\u003d0\",\"PERFORMANCE_LOG\u003d0\",\"RENDER_LOG\u003d0\"],\"includePath\":[{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson/.\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"wson_util.cpp\",\"wson_parser.cpp\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O2 -DNDEBUG  -fPIC   -fexceptions\",\"defines\":[\"DOM_PARSER_LOG\u003d0\",\"GNU_SUPPORT\u003d1\",\"JSAPI_LOG\u003d0\",\"JSONCPP_NO_LOCALE_SUPPORT\u003d1\",\"LAYOUT_LOG\u003d0\",\"PERFORMANCE_LOG\u003d0\",\"RENDER_LOG\u003d0\"],\"includePath\":[{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson/.\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"wson.c\"]}],\"fullName\":\"libwson.a\",\"linkerLanguage\":\"CXX\",\"name\":\"wson\",\"sourceDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson\",\"sysroot\":\"/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/Source/third_party/json11/libjson11.a\"],\"buildDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/Source/third_party/json11\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -std\u003dc++1y -O2 -DNDEBUG  -fPIC   -fexceptions\",\"defines\":[\"DOM_PARSER_LOG\u003d0\",\"GNU_SUPPORT\u003d1\",\"JSAPI_LOG\u003d0\",\"JSONCPP_NO_LOCALE_SUPPORT\u003d1\",\"LAYOUT_LOG\u003d0\",\"PERFORMANCE_LOG\u003d0\",\"RENDER_LOG\u003d0\"],\"includePath\":[{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/json11/.\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"json11.cc\"]}],\"fullName\":\"libjson11.a\",\"linkerLanguage\":\"CXX\",\"name\":\"json11\",\"sourceDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/json11\",\"sysroot\":\"/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/Source/third_party/IPC/libweexipc.a\"],\"buildDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/Source/third_party/IPC\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security  -O2 -DNDEBUG  -fPIC   -fexceptions\",\"defines\":[\"DOM_PARSER_LOG\u003d0\",\"GNU_SUPPORT\u003d1\",\"JSAPI_LOG\u003d0\",\"JSONCPP_NO_LOCALE_SUPPORT\u003d1\",\"LAYOUT_LOG\u003d0\",\"OS_ANDROID\u003d1\",\"PERFORMANCE_LOG\u003d0\",\"RENDER_LOG\u003d0\"],\"includePath\":[{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/.\"}],\"isGenerated\":false,\"language\":\"C\",\"sources\":[\"ashmem.c\"]},{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -std\u003dc++1y -O2 -DNDEBUG  -fPIC   -fexceptions\",\"defines\":[\"DOM_PARSER_LOG\u003d0\",\"GNU_SUPPORT\u003d1\",\"JSAPI_LOG\u003d0\",\"JSONCPP_NO_LOCALE_SUPPORT\u003d1\",\"LAYOUT_LOG\u003d0\",\"OS_ANDROID\u003d1\",\"PERFORMANCE_LOG\u003d0\",\"RENDER_LOG\u003d0\"],\"includePath\":[{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/.\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"Serializing/IPCSerializer.cpp\",\"IPCResult.cpp\",\"IPCSender.cpp\",\"IPCException.cpp\",\"IPCCommunicator.cpp\",\"IPCHandler.cpp\",\"IPCListener.cpp\",\"IPCFutexPageQueue.cpp\",\"IPCCheck.cpp\"]}],\"fullName\":\"libweexipc.a\",\"linkerLanguage\":\"CXX\",\"name\":\"weexipc\",\"sourceDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC\",\"sysroot\":\"/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot\",\"type\":\"STATIC_LIBRARY\"},{\"artifacts\":[\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/Source/js_runtime/libweexjst.so\"],\"buildDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/Source/js_runtime\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -std\u003dc++1y -O2 -DNDEBUG  -fPIE   -fexceptions\",\"defines\":[\"DOM_PARSER_LOG\u003d0\",\"GNU_SUPPORT\u003d1\",\"JSAPI_LOG\u003d0\",\"JSONCPP_NO_LOCALE_SUPPORT\u003d1\",\"LAYOUT_LOG\u003d0\",\"LOG_JS_DEBUG\u003d0\",\"OS_ANDROID\",\"OS_ANDROID\u003d1\",\"PERFORMANCE_LOG\u003d0\",\"PRINT_LOG_CACHEFILE\u003d0\",\"PTHREAD_KEYS_MAX\u003d_POSIX_THREAD_KEYS_MAX\",\"RENDER_LOG\u003d0\",\"USE_JS_RUNTIME\u003d1\",\"USE_SYSTEM_MALLOC\u003d1\",\"WTF_CPU_ARM64\",\"_POSIX_THREAD_KEYS_MAX\u003d128\"],\"includePath\":[{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/include\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/include\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/include/JavaScriptCore\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/include/JavaScriptCore/ForwardingHeaders\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/.\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/.\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson/.\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"../android/jsengine/weex_js_server_main_stub.cpp\"]}],\"fullName\":\"libweexjst.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -std\u003dc++1y -O2 -DNDEBUG\",\"linkLibraries\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/build/intermediates/cmake/debug/obj/arm64-v8a/libweexjss.so ../base/libweexbase.a ../third_party/IPC/libweexipc.a ../wson/libwson.a -lJavaScriptCore -lWTF -llog -lz -lc -ldl -pthread -latomic -lm\",\"linkPath\":\"-L/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/libs/arm64-v8a\",\"linkerLanguage\":\"CXX\",\"name\":\"libweexjst.so\",\"sourceDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime\",\"sysroot\":\"/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/Source/js_runtime/libweexjsb.so\"],\"buildDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/Source/js_runtime\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -std\u003dc++1y -O2 -DNDEBUG  -fPIE   -fexceptions\",\"defines\":[\"DOM_PARSER_LOG\u003d0\",\"GNU_SUPPORT\u003d1\",\"JSAPI_LOG\u003d0\",\"JSONCPP_NO_LOCALE_SUPPORT\u003d1\",\"LAYOUT_LOG\u003d0\",\"LOG_JS_DEBUG\u003d0\",\"OS_ANDROID\",\"OS_ANDROID\u003d1\",\"PERFORMANCE_LOG\u003d0\",\"PRINT_LOG_CACHEFILE\u003d0\",\"PTHREAD_KEYS_MAX\u003d_POSIX_THREAD_KEYS_MAX\",\"RENDER_LOG\u003d0\",\"USE_JS_RUNTIME\u003d1\",\"USE_SYSTEM_MALLOC\u003d1\",\"WTF_CPU_ARM64\",\"_POSIX_THREAD_KEYS_MAX\u003d128\"],\"includePath\":[{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/include\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/include\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/include/JavaScriptCore\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/include/JavaScriptCore/ForwardingHeaders\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/.\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/.\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson/.\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"../android/jsengine/weex_js_server_main_stub.cpp\"]}],\"fullName\":\"libweexjsb.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack -Wl,--gc-sections    -pie -fPIE\",\"linkLanguageFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -std\u003dc++1y -O2 -DNDEBUG\",\"linkLibraries\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/build/intermediates/cmake/debug/obj/arm64-v8a/libweexjss.so ../base/libweexbase.a ../third_party/IPC/libweexipc.a ../wson/libwson.a -lJavaScriptCore -lWTF -llog -lz -lc -ldl -pthread -latomic -lm\",\"linkPath\":\"-L/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/libs/arm64-v8a\",\"linkerLanguage\":\"CXX\",\"name\":\"libweexjsb.so\",\"sourceDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime\",\"sysroot\":\"/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot\",\"type\":\"EXECUTABLE\"},{\"artifacts\":[\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/build/intermediates/cmake/debug/obj/arm64-v8a/libweexjss.so\"],\"buildDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/Source/js_runtime\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror\u003dformat-security   -std\u003dc++1y -O2 -DNDEBUG  -fPIC   -fexceptions\",\"defines\":[\"DOM_PARSER_LOG\u003d0\",\"GNU_SUPPORT\u003d1\",\"JSAPI_LOG\u003d0\",\"JSONCPP_NO_LOCALE_SUPPORT\u003d1\",\"LAYOUT_LOG\u003d0\",\"LOG_JS_DEBUG\u003d0\",\"OS_ANDROID\",\"OS_ANDROID\u003d1\",\"PERFORMANCE_LOG\u003d0\",\"PRINT_LOG_CACHEFILE\u003d0\",\"PTHREAD_KEYS_MAX\u003d_POSIX_THREAD_KEYS_MAX\",\"RENDER_LOG\u003d0\",\"USE_JS_RUNTIME\u003d1\",\"USE_SYSTEM_MALLOC\u003d1\",\"WTF_CPU_ARM64\",\"_POSIX_THREAD_KEYS_MAX\u003d128\",\"weexjss_EXPORTS\"],\"includePath\":[{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/include\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/include\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/include/JavaScriptCore\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/include/JavaScriptCore/ForwardingHeaders\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/.\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/.\"},{\"path\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson/.\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"../android/jsengine/weex_ipc_client.cpp\",\"../android/jsengine/weex_ipc_server.cpp\",\"weex/utils/weex_jsc_utils.cpp\",\"weex/bridge/script/script_side_in_simple.cpp\",\"weex/bridge/script/script_side_in_queue.cpp\",\"../android/jsengine/bridge/script/script_bridge_in_multi_so.cpp\",\"../android/jsengine/bridge/script/script_bridge_in_multi_process.cpp\",\"../android/jsengine/bridge/script/core_side_in_multi_so.cpp\",\"../android/jsengine/bridge/script/core_side_in_multi_process.cpp\",\"../android/jsengine/object/args/exe_js_args.cpp\",\"../android/jsengine/object/args/init_framework_args.cpp\",\"../android/jsengine/object/args.cpp\",\"../android/jsengine/object/weex_env.cpp\",\"weex/task/impl/init_framework_task.cpp\",\"weex/task/impl/create_app_context_task.cpp\",\"weex/task/impl/create_instance_task.cpp\",\"weex/task/impl/call_js_on_app_context_task.cpp\",\"weex/task/impl/destory_app_context_task.cpp\",\"weex/task/impl/destory_instance_task.cpp\",\"weex/task/impl/exe_js_on_app_with_result.cpp\",\"weex/task/impl/update_global_config_task.cpp\",\"weex/task/impl/ctime_callback_task.cpp\",\"weex/task/impl/exe_js_services_task.cpp\",\"weex/task/impl/exe_js_on_instance_task.cpp\",\"weex/task/impl/exe_js_task.cpp\",\"weex/task/impl/take_heap_snapshot.cpp\",\"weex/task/impl/native_timer_task.cpp\",\"weex/task/impl/update_init_framework_params_task.cpp\",\"weex/task/weex_task.cpp\",\"weex/task/weex_task_queue.cpp\",\"weex/task/timer_task.cpp\",\"weex/task/timer_queue.cpp\",\"weex/task/back_to_weex_core_queue.cpp\",\"runtime/runtime_vm.cc\",\"runtime/runtime_context_android.cc\",\"runtime/runtime_values.cc\",\"runtime/jsc/engine_context_jsc.cc\",\"runtime/jsc/jsc_utils.cc\",\"runtime/jsc/runtime_object_jsc.cc\",\"runtime/jsc/runtime_values_jsc.cc\",\"runtime/jsc/vm_jsc.cc\",\"runtime/js_runtime_conversion.cpp\",\"weex/binding/weex_instance_binding.cpp\",\"weex/binding/weex_global_binding.cpp\",\"weex/binding/app_context_binding.cpp\",\"weex/binding/weex_console_binding.cpp\",\"weex/utils/wson_for_runtime.cpp\",\"weex/binding/weex_binding_utils.cpp\",\"weex/utils/weex_conversion_utils.cpp\",\"../third_party/json11/json11.cc\",\"weex/object/weex_runtime_v2.cpp\",\"weex/object/weex_object_holder_v2.cpp\",\"weex/object/weex_global_object_v2.cpp\"]},{\"isGenerated\":false,\"sources\":[\"../android/jsengine/weex_ipc_client.h\",\"../android/jsengine/weex_ipc_server.h\",\"weex/utils/weex_jsc_utils.h\",\"../android/jsengine/object/args.h\",\"../android/jsengine/object/weex_env.h\",\"runtime/binding_macro.h\",\"runtime/jsc/binding_macro_jsc.h\",\"runtime/js_runtime_conversion.h\",\"utils/log_utils.h\",\"weex/binding/weex_instance_binding.h\",\"weex/binding/weex_global_binding.h\",\"weex/binding/app_context_binding.h\",\"weex/binding/weex_console_binding.h\",\"weex/utils/wson_for_runtime.h\",\"weex/binding/weex_binding_utils.h\",\"weex/utils/weex_conversion_utils.h\",\"../third_party/json11/json11.hpp\",\"weex/object/weex_runtime_v2.h\",\"weex/object/weex_object_holder_v2.h\",\"weex/object/weex_global_object_v2.h\"]}],\"fullName\":\"libweexjss.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libatomic.a -Wl,--build-id -Wl,--warn-shared-textrel -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack   -Wl,--version-script\u003d/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/jsengine/weexjsserver_version_script.txt -Wl,--no-undefined -Wl,-soname,libweexjss.so\",\"linkLibraries\":\"../base/libweexbase.a ../third_party/IPC/libweexipc.a ../wson/libwson.a -lJavaScriptCore -lWTF -llog -lz -lc -ldl -pthread -latomic -lm\",\"linkPath\":\"-L/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/libs/arm64-v8a\",\"linkerLanguage\":\"CXX\",\"name\":\"weexjss\",\"sourceDirectory\":\"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime\",\"sysroot\":\"/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "done executing cmake",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write build output /Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/build_output.txt",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "write command file /Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/debug/arm64-v8a/build_command.txt",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "tag": "debug|arm64-v8a"
+  }
+]

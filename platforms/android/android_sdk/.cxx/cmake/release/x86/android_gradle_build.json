@@ -1,0 +1,1115 @@
+{
+  "stringTable": {
+    "0": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/x86",
+    "1": "--target=i686-none-linux-android21 --gcc-toolchain=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDOM_PARSER_LOG=0 -DGNU_SUPPORT=1 -DJSAPI_LOG=0 -DJSONCPP_NO_LOCALE_SUPPORT=1 -DLAYOUT_LOG=0 -DOS_ANDROID=1 -DPERFORMANCE_LOG=0 -DRENDER_LOG=0 -Dweexcore_EXPORTS -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/. -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson/. -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/json11/. -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/. -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/. -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -std=c++1y -O2 -DNDEBUG -fPIC -fexceptions",
+    "2": "--target=i686-none-linux-android21 --gcc-toolchain=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDOM_PARSER_LOG=0 -DGNU_SUPPORT=1 -DJSAPI_LOG=0 -DJSONCPP_NO_LOCALE_SUPPORT=1 -DLAYOUT_LOG=0 -DOS_ANDROID=1 -DPERFORMANCE_LOG=0 -DRENDER_LOG=0 -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/. -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -std=c++1y -O2 -DNDEBUG -fPIC -fexceptions",
+    "3": "--target=i686-none-linux-android21 --gcc-toolchain=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDOM_PARSER_LOG=0 -DGNU_SUPPORT=1 -DJSAPI_LOG=0 -DJSONCPP_NO_LOCALE_SUPPORT=1 -DLAYOUT_LOG=0 -DPERFORMANCE_LOG=0 -DRENDER_LOG=0 -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson/. -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC -fexceptions",
+    "4": "--target=i686-none-linux-android21 --gcc-toolchain=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDOM_PARSER_LOG=0 -DGNU_SUPPORT=1 -DJSAPI_LOG=0 -DJSONCPP_NO_LOCALE_SUPPORT=1 -DLAYOUT_LOG=0 -DPERFORMANCE_LOG=0 -DRENDER_LOG=0 -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson/. -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -std=c++1y -O2 -DNDEBUG -fPIC -fexceptions",
+    "5": "--target=i686-none-linux-android21 --gcc-toolchain=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDOM_PARSER_LOG=0 -DGNU_SUPPORT=1 -DJSAPI_LOG=0 -DJSONCPP_NO_LOCALE_SUPPORT=1 -DLAYOUT_LOG=0 -DPERFORMANCE_LOG=0 -DRENDER_LOG=0 -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/json11/. -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -std=c++1y -O2 -DNDEBUG -fPIC -fexceptions",
+    "6": "--target=i686-none-linux-android21 --gcc-toolchain=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDOM_PARSER_LOG=0 -DGNU_SUPPORT=1 -DJSAPI_LOG=0 -DJSONCPP_NO_LOCALE_SUPPORT=1 -DLAYOUT_LOG=0 -DOS_ANDROID=1 -DPERFORMANCE_LOG=0 -DRENDER_LOG=0 -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/. -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -std=c++1y -O2 -DNDEBUG -fPIC -fexceptions",
+    "7": "--target=i686-none-linux-android21 --gcc-toolchain=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDOM_PARSER_LOG=0 -DGNU_SUPPORT=1 -DJSAPI_LOG=0 -DJSONCPP_NO_LOCALE_SUPPORT=1 -DLAYOUT_LOG=0 -DOS_ANDROID=1 -DPERFORMANCE_LOG=0 -DRENDER_LOG=0 -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/. -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC -fexceptions",
+    "8": "--target=i686-none-linux-android21 --gcc-toolchain=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDOM_PARSER_LOG=0 -DGNU_SUPPORT=1 -DJSAPI_LOG=0 -DJSONCPP_NO_LOCALE_SUPPORT=1 -DLAYOUT_LOG=0 -DLOG_JS_DEBUG=0 -DOS_ANDROID -DOS_ANDROID=1 -DPERFORMANCE_LOG=0 -DPRINT_LOG_CACHEFILE=0 -DPTHREAD_KEYS_MAX=_POSIX_THREAD_KEYS_MAX -DRENDER_LOG=0 -DUSE_JS_RUNTIME=1 -DUSE_SYSTEM_MALLOC=1 -DWTF_CPU_X86 -D_POSIX_THREAD_KEYS_MAX=128 -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/include -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/include -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/include/JavaScriptCore -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/include/JavaScriptCore/ForwardingHeaders -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/. -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/. -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson/. -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -std=c++1y -O2 -DNDEBUG -fPIE -fexceptions",
+    "9": "--target=i686-none-linux-android21 --gcc-toolchain=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -DDOM_PARSER_LOG=0 -DGNU_SUPPORT=1 -DJSAPI_LOG=0 -DJSONCPP_NO_LOCALE_SUPPORT=1 -DLAYOUT_LOG=0 -DLOG_JS_DEBUG=0 -DOS_ANDROID -DOS_ANDROID=1 -DPERFORMANCE_LOG=0 -DPRINT_LOG_CACHEFILE=0 -DPTHREAD_KEYS_MAX=_POSIX_THREAD_KEYS_MAX -DRENDER_LOG=0 -DUSE_JS_RUNTIME=1 -DUSE_SYSTEM_MALLOC=1 -DWTF_CPU_X86 -D_POSIX_THREAD_KEYS_MAX=128 -Dweexjss_EXPORTS -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/include -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/include -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/include/JavaScriptCore -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/include/JavaScriptCore/ForwardingHeaders -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/. -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/. -I/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson/. -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -std=c++1y -O2 -DNDEBUG -fPIC -fexceptions"
+  },
+  "buildFiles": [
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/json11/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/build/cmake/platforms.cmake",
+    "/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/build/cmake/android.toolchain.cmake",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/CMakeLists.txt",
+    "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "wson-Release-x86": {
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/x86\" wson",
+      "buildType": "release",
+      "toolchain": "562414464",
+      "abi": "x86",
+      "artifactName": "wson",
+      "files": [
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson/wson_util.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson/wson_parser.cpp",
+          "flagsOrdinal": 4,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/wson/wson.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/x86/Source/wson/libwson.a"
+    },
+    "json11-Release-x86": {
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/x86\" json11",
+      "buildType": "release",
+      "toolchain": "562414464",
+      "abi": "x86",
+      "artifactName": "json11",
+      "files": [
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/json11/json11.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/x86/Source/third_party/json11/libjson11.a"
+    },
+    "libweexjst.so-Release-x86": {
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/x86\" libweexjst.so",
+      "buildType": "release",
+      "toolchain": "562414464",
+      "abi": "x86",
+      "artifactName": "libweexjst.so",
+      "files": [
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/jsengine/weex_js_server_main_stub.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/x86/Source/js_runtime/libweexjst.so"
+    },
+    "libweexjsb.so-Release-x86": {
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/x86\" libweexjsb.so",
+      "buildType": "release",
+      "toolchain": "562414464",
+      "abi": "x86",
+      "artifactName": "libweexjsb.so",
+      "files": [
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/jsengine/weex_js_server_main_stub.cpp",
+          "flagsOrdinal": 8,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/x86/Source/js_runtime/libweexjsb.so"
+    },
+    "weexjss-Release-x86": {
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/x86\" weexjss",
+      "buildType": "release",
+      "toolchain": "562414464",
+      "abi": "x86",
+      "artifactName": "weexjss",
+      "files": [
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/jsengine/weex_ipc_client.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/jsengine/weex_ipc_server.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/utils/weex_jsc_utils.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/bridge/script/script_side_in_simple.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/bridge/script/script_side_in_queue.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/jsengine/bridge/script/script_bridge_in_multi_so.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/jsengine/bridge/script/script_bridge_in_multi_process.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/jsengine/bridge/script/core_side_in_multi_so.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/jsengine/bridge/script/core_side_in_multi_process.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/jsengine/object/args/exe_js_args.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/jsengine/object/args/init_framework_args.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/jsengine/object/args.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/jsengine/object/weex_env.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/impl/init_framework_task.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/impl/create_app_context_task.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/impl/create_instance_task.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/impl/call_js_on_app_context_task.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/impl/destory_app_context_task.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/impl/destory_instance_task.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/impl/exe_js_on_app_with_result.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/impl/update_global_config_task.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/impl/ctime_callback_task.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/impl/exe_js_services_task.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/impl/exe_js_on_instance_task.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/impl/exe_js_task.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/impl/take_heap_snapshot.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/impl/native_timer_task.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/impl/update_init_framework_params_task.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/weex_task.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/weex_task_queue.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/timer_task.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/timer_queue.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/task/back_to_weex_core_queue.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/runtime/runtime_vm.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/runtime/runtime_context_android.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/runtime/runtime_values.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/runtime/jsc/engine_context_jsc.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/runtime/jsc/jsc_utils.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/runtime/jsc/runtime_object_jsc.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/runtime/jsc/runtime_values_jsc.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/runtime/jsc/vm_jsc.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/runtime/js_runtime_conversion.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/binding/weex_instance_binding.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/binding/weex_global_binding.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/binding/app_context_binding.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/binding/weex_console_binding.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/utils/wson_for_runtime.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/binding/weex_binding_utils.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/utils/weex_conversion_utils.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/json11/json11.cc",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/object/weex_runtime_v2.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/object/weex_object_holder_v2.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/object/weex_global_object_v2.cpp",
+          "flagsOrdinal": 9,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/jsengine/weex_ipc_client.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/jsengine/weex_ipc_server.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/utils/weex_jsc_utils.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/jsengine/object/args.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/jsengine/object/weex_env.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/runtime/binding_macro.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/runtime/jsc/binding_macro_jsc.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/runtime/js_runtime_conversion.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/utils/log_utils.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/binding/weex_instance_binding.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/binding/weex_global_binding.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/binding/app_context_binding.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/binding/weex_console_binding.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/utils/wson_for_runtime.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/binding/weex_binding_utils.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/utils/weex_conversion_utils.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/json11/json11.hpp",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/object/weex_runtime_v2.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/object/weex_object_holder_v2.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/js_runtime/weex/object/weex_global_object_v2.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/build/intermediates/cmake/release/obj/x86/libweexjss.so"
+    },
+    "weexipc-Release-x86": {
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/x86\" weexipc",
+      "buildType": "release",
+      "toolchain": "562414464",
+      "abi": "x86",
+      "artifactName": "weexipc",
+      "files": [
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/ashmem.c",
+          "flagsOrdinal": 7,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/Serializing/IPCSerializer.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/IPCResult.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/IPCSender.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/IPCException.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/IPCCommunicator.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/IPCHandler.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/IPCListener.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/IPCFutexPageQueue.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/third_party/IPC/IPCCheck.cpp",
+          "flagsOrdinal": 6,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/x86/Source/third_party/IPC/libweexipc.a"
+    },
+    "weexbase-Release-x86": {
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/x86\" weexbase",
+      "buildType": "release",
+      "toolchain": "562414464",
+      "abi": "x86",
+      "artifactName": "weexbase",
+      "files": [
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/time_point.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/log_defines.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/base64/base64.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/base64/modp_base64/modp_b64.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/crash/crash_handler.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/message_loop/message_loop.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/message_loop/message_pump_android.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/message_loop/message_pump_darwin.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/message_loop/message_pump_posix.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/thread/thread_impl_android.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/thread/thread_impl_darwin.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/thread/thread_impl_posix.cc",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/third_party/icu/icu_utf.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/utils/log_utils.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/utils/ThreadLocker.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/android/call_stack.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/android/weex_log.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/android/jni_type.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/android/jni/android_jni.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/android/jni/jbytearray_ref.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/android/jni/scoped_java_ref.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/common.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/closure.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/make_copyable.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/time_calculator.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/time_point.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/time_unit.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/core_constants.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/log_defines.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/time_utils.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/base64/base64.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/base64/modp_base64/modp_b64.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/base64/modp_base64/modp_b64_data.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/crash/crash_handler.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/message_loop/message_loop.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/message_loop/message_pump.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/message_loop/message_pump_android.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/message_loop/message_pump_darwin.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/message_loop/message_pump_posix.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/thread/thread.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/thread/thread_impl.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/thread/thread_local.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/thread/thread_impl_android.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/thread/thread_impl_darwin.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/thread/thread_impl_posix.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/thread/waitable_event.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/utils/log_utils.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/utils/ThreadLocker.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/android/call_stack.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/android/weex_log.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/android/log_utils.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/android/jni_type.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/android/jni/android_jni.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/android/jni/jbytearray_ref.h",
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/base/android/jni/scoped_java_ref.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/x86/Source/base/libweexbase.a"
+    },
+    "weexcore-Release-x86": {
+      "buildCommand": "/Users/xiaojinli/Documents/Android/SDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/.cxx/cmake/release/x86\" weexcore",
+      "buildType": "release",
+      "toolchain": "562414464",
+      "abi": "x86",
+      "artifactName": "weexcore",
+      "files": [
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/manager/render_manager.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/page/render_page.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/node/render_object.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/node/factory/render_creator.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/node/render_appbar.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/node/render_list.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/node/render_mask.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/node/render_scroller.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/node/render_text.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/action/render_action_add_event.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/action/render_action_remove_event.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/action/render_action_add_element.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/action/render_action_remove_element.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/action/render_action_move_element.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/action/render_action_createbody.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/action/render_action_createfinish.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/action/render_action_appendtree_createfinish.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/action/render_action_layout.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/action/render_action_update_attr.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/action/render_action_update_style.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/action/render_action_render_success.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/render/action/render_action_trigger_vsync.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/layout/layout.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/layout/style.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/css/css_value_getter.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/config/core_environment.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/moniter/render_performance.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/bridge/platform/core_side_in_platform.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/bridge/script/core_side_in_script.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/parser/dom_wson.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/parser/action_args_check.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/network/http_module.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/weex_extend_js_api.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/base/string/scoped_jstring_utf8.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/base/string/jstring_cache.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/base/string/scoped_jstring.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/wrap/content_box_measurement_impl_android.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/wrap/wx_debug_js_bridge.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/wrap/native_render_object_utils_impl_android.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/bridge/platform/android_side.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/bridge/platform/android_bridge.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/bridge/script/script_side_in_multi_so.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/bridge/script/script_side_in_multi_process.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/bridge/script_bridge_in_multi_so.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/bridge/script_bridge_in_multi_process.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/bridge/multi_process_and_so_initializer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/bridge/multi_so_initializer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/wrap/wml_bridge.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/utils/cache_utils.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/utils/params_utils.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/utils/so_utils.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/utils/ipc_string_result.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/wrap/log_utils.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/wrap/hash_set.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/wrap/wx_map.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/wrap/wx_js_object.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/wrap/wx_bridge.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/wrap/wx_params.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/multiprocess/weex_js_connection.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/utils/jni_load.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/bridge/eagle_bridge.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/core/network/android/default_request_handler.cc",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [
+        {
+          "header": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/weex_core/Source/android/weex_extend_js_api.h",
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "/Users/xiaojinli/Documents/project/weex/awesome-project/platforms/android/android_sdk/build/intermediates/cmake/release/obj/x86/libweexcore.so"
+    }
+  },
+  "toolchains": {
+    "562414464": {
+      "cCompilerExecutable": "/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/xiaojinli/Documents/Android/SDK/ndk/20.0.5594570/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cc",
+    "cpp"
+  ]
+}
